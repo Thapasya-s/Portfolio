@@ -161,7 +161,7 @@ profile-photo .img{
   transition: 0.5s;
 }
 .profile-text .social i:hover{
-  color:#0094fe;
+  color:rgb(186, 87, 12);
   transform: rotate(360deg);
 }
 
